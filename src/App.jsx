@@ -1,5 +1,5 @@
 import React from 'react';
-import AddMarks from './AddMarks';
+import AddMarks from './Addmarks';
 import MarksList from './MarksList';  
 
 export default function App() {
