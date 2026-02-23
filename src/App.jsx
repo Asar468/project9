@@ -7,7 +7,7 @@ export default function App() {
     <div className='app-container'>
       <h1>Welcome to KL University Marks Portal</h1>
       <center><h2>Md Asar (32723)</h2></center>
-      <AddMarks />
+      <Addmarks />
       <MarksList />
     </div>
   );
